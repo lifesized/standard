@@ -23,14 +23,14 @@ The current public software production method does not serve public service deli
 In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
 
 * can’t change their software to reflect changing policy or take advantage of new technology
-* don’t have own or even have access to their data
+* don’t own or even have access to their data
 * are asked to pay ever increasing licence fees
 
 ### Technological sovereignty and democratic accountability
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
+We believe the software that runs our society can no longer be a black box, purchased from outside companies that hides the underlying logic on which their software operates in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
 ### Designing truly public software
 
